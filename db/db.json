@@ -1,1 +1,19 @@
-[]
+{
+  "notes": [
+    {
+      "title": "afsdf",
+      "text": "asdf",
+      "id": "0"
+    },
+    {
+      "title": "sdf",
+      "text": "test",
+      "id": "1"
+    },
+    {
+      "title": "sdfg",
+      "text": "wertert",
+      "id": "2"
+    }
+  ]
+}
