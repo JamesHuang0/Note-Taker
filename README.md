@@ -5,5 +5,6 @@ To create an application that can write and save notes. The app has been deploye
 
 ## Demo
 [Link](https://whispering-refuge-70862.herokuapp.com/) to live deployment of application.
+
 ![Screenshot](https://github.com/mrxanthic/Note-Taker/blob/main/public/assets/notetakerscreenshot.PNG)
  
